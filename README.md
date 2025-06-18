@@ -2,6 +2,8 @@
 
 ![Project Preview](https://github.com/RgAnna/concrete_fence_3d/blob/main/Render/fence1.png)
 
+## Description
+
 This is a low-poly 3D asset of a concrete fence optimized for use in game engines.  
 The asset was baked from a high-poly version for optimal performance.
 
@@ -29,6 +31,8 @@ __Preview on Sketchfab:__ [https://skfb.ly/puSsD](https://skfb.ly/puSsD)
 ___
 
 <h1 align="center"> 3D Модель игровой ассет <a href="https://skfb.ly/puSsD" target="_blank">Бетонный забор</a> 
+
+## Description
 
 Низкополигональный 3D-ассет бетонного забора, оптимизированный для использования в игровых движках.  
 Модель создана на основе хай-поли версии с запеканием на лоу-поли для повышения производительности.
