@@ -1,4 +1,4 @@
-## Concrete Fence – Game Asset
+<h1 align="center"> 3D Model for GameDev <a href="https://skfb.ly/puSsD" target="_blank">Concrete Fence</a> 
 
 ![Project Preview](https://github.com/RgAnna/concrete_fence_3d/blob/main/Render/fence1.png)
 
@@ -28,7 +28,7 @@ __Preview on Sketchfab:__ [https://skfb.ly/puSsD](https://skfb.ly/puSsD)
 
 ___
 
-## Бетонный забор – игровой ассет
+<h1 align="center"> 3D Модель игровой ассет <a href="https://skfb.ly/puSsD" target="_blank">Бетонный забор</a> 
 
 Низкополигональный 3D-ассет бетонного забора, оптимизированный для использования в игровых движках.  
 Модель создана на основе хай-поли версии с запеканием на лоу-поли для повышения производительности.
