@@ -26,7 +26,7 @@ __Preview on Sketchfab:__ [https://skfb.ly/puSsD](https://skfb.ly/puSsD)
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
----
+------------------------------------------------------------
 
 ## Бетонный забор – игровой ассет
 
